@@ -1,4 +1,4 @@
-package org.git.liberty.actionbeans;
+package net.sourceforge.stripes.examples.actionbeans;
 
 import net.sourceforge.stripes.action.ActionBean;
 import net.sourceforge.stripes.action.ActionBeanContext;
